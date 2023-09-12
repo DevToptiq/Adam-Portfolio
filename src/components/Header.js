@@ -1,5 +1,4 @@
 import React from 'react';
-import Logo from '../assets/icon.png'
 
 const Header = () => {
   return (
@@ -7,7 +6,7 @@ const Header = () => {
   <div className='container mx-auto'>
     <div className='flex justify-between items-center'>
       {/* Logo */}
-      <a href='#'>
+      <a href='/#'>
         {/* <img  src={Logo} alt='' height='200' width='200'/> */}
       </a>
       {/* Logo */}

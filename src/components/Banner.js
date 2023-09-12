@@ -88,7 +88,7 @@ const Banner = () => {
               <button className='btn btn-lg'>
                 Contact Me
               </button>
-              <a href='#' className='text-gradient btn-link'>
+              <a href='/#' className='text-gradient btn-link'>
                 My Portfolio
               </a>
             </motion.div>
@@ -100,13 +100,13 @@ const Banner = () => {
                  once: false, amount: 0.7
                }} 
             className='flex text-2xl gap-x-6 max-w-max m-auto lg:mx-0 '>
-              <a href='#'>
+              <a href='/#'>
                 <FaGithub />
               </a>
-              <a href='#'>
+              <a href='/#'>
                 <FaLinkedin />
               </a>
-              <a href='#'>
+              <a href='/#'>
                 <FaYoutube />
               </a>
             </motion.div>
